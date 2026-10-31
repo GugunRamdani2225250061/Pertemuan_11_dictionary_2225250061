@@ -24,17 +24,18 @@ Contoh:
 }
 ```
 ## 3. Daftar File
-# Folder latihan berisi:
+- Folder latihan berisi:
 1. 01_dasar_dictionary.py
 2. 02_akses_get.py
 3. 03_manipulasi_dictionary.py
 4. 04_iterasi_dictionary.py
 5. 05_dictionary_bersarang.py
 6. 06_fungsi_dictionary.py
-# Folder praktik berisi:
-- data_mahasiswa.py
-# kuis formatif_pertemuan 11.docx
-# .gitignore
+   
+- Folder praktik berisi:
+  data_mahasiswa.py
+- kuis formatif_pertemuan 11.docx
+- .gitignore
 
 ## 4. Cara Menjalankan
 Pastikan Python 3 sudah terpasang.
