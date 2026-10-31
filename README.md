@@ -1,4 +1,4 @@
-# Pertemuan 11_Dictionary/Map
+# Pertemuan 11_Dictionary
 
 - Nama: Gugun Ramdani  
 - NIM: 2225250061
