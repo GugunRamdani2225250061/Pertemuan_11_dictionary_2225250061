@@ -33,7 +33,7 @@ Contoh:
 6. 06_fungsi_dictionary.py
    
 - Folder praktik berisi:
-  data_mahasiswa.py
+1. data_mahasiswa.py
 - kuis formatif_pertemuan 11.docx
 - .gitignore
 
@@ -55,9 +55,7 @@ python praktik/data_mahasiswa.py
 
 ## 6. Refleksi
 Kesalahan yang dapat terjadi dalam penggunaan dictionary adalah KeyError, yaitu ketika program mengakses key yang tidak tersedia.
-
 Kesalahan tersebut dapat diperbaiki dengan menggunakan method get() atau memeriksa keberadaan key menggunakan operator in sebelum mengakses data.
-
 Melalui praktikum ini, saya memahami bahwa dictionary lebih tepat digunakan untuk menyimpan data yang memiliki identitas tertentu, seperti NIM mahasiswa. Saya juga memahami penggunaan dictionary bersarang, iterasi items(), serta fungsi untuk mempermudah pengolahan data.
 
 ## 7. Kesimpulan
